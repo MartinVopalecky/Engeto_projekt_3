@@ -14,7 +14,7 @@ Je možné je naistalovat pomocí příkazu do nového virtuálního prostředí
 
 ``` pip install -r requirements.txt ```
 
-## Spuštění knihoven
+## Spuštění projektu
 
 ``` python  Engeto_projekt_3 <odkaz uzemniho celku> <vysledny soubor>   ```
 
